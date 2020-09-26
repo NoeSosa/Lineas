@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package org.yourorghere;
 
 import com.sun.opengl.util.Animator;
@@ -20,7 +16,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 /**
  *
- * @author José Vela
+ * @author Noe Sosa
  */
 public class Lineas extends JFrame{
     static GL gl;
